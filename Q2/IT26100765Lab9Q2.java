@@ -10,7 +10,7 @@ public class IT26100765Lab9Q2{
 	
 	
 	double area = circleArea(radius);
-	System.out.println("The area of the circle with radius" + radius + "is" + area);
+	System.out.println("The area of the circle with radius " + radius + " is " + area);
 	}
 	public static double circleArea (double radius){
 	
