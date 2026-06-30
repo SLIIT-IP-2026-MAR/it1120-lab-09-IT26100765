@@ -5,7 +5,7 @@ public class IT26100765Lab9Q2{
 	
 	Scanner input = new Scanner(System.in);
 	
-	System.out.print("Enter the radius od ther circle: ");
+	System.out.print("Enter the radius of the circle: ");
 	double radius = input.nextDouble();
 	
 	
